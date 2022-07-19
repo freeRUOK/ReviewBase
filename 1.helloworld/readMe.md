@@ -8,7 +8,7 @@
 
 [C#](hello.cs)
 
-	[C++](hello.cpp)
+[C++](hello.cpp)
 
 [JavaScript](hello.js)
 
