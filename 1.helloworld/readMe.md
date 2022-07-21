@@ -1,4 +1,6 @@
-# 编程语言的helloWorld程序
+# helloworld
+
+第一个程序肯定是问候这个世界， 在标准输出上输出hello， world这个文本……
 
 [C](hello.c)
 
@@ -8,12 +10,4 @@
 
 [C#](hello.cs)
 
-[C++](hello.cpp)
-
 [JavaScript](hello.js)
-
-[Golang](hello.go)
-
-[Rust](hello.rs)
-
-[Haskell](hello.hs)
